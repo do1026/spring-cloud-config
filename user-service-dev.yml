@@ -1,2 +1,6 @@
-message:
-  greeting: Hello Spring Cloud Dev
+token:
+  expiration_time: 864000000 
+  secret: my-very-long-secret-key-1234567890123456-from-remote-repo-userservice-dev
+
+gateway:
+  ip: 192.168.0.8

@@ -1,3 +1,5 @@
-spring:
-  profiles:
-    active: default
+token:
+  expiration_time: 864000000 
+  secret: '{cipher}AQCG/0MvdyS7nS+9u8+zQKh2HF+Byf+XKA8iQ9soiXbsfpt7ZgNTsYSrgFLb6LQSqxUynUIOaCZ7reA++KQCkjrlwz7HAB8BSyEKmrDTg1dqHnCxCYmCz0Hv2b7A9f3uyMksbzceI6HqIgr7Y1Adl2Shmev789Wr3olh/5dYmbF7HhdCYNjGp8oFlkSO49L890IW7JKapbvlsH9V+zBJYu05tw0sUoB/0Uhz+XukkpNnzaxYNB8vgIljnid+w2GMh6I+edWLT7r/0PuMQaKs1fWb//rlzvh+6MIewmJOIDHqk56hmu69o5MW9shE1bmUeruY2n56wdqaXdtMrMZLwSttU+KYb+paGQe37y3w5byIlPurtoz4elL548XMOh+b77I='
+gateway:
+  ip: 172.18.0.1

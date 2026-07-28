@@ -6,7 +6,7 @@ company:
   ceo: Hong Gil Dong
 
 token:
-  expiration_time: 86400000
+  expiration-time: 86400000
   secret: user_token_test_secret_key_12345678901234567890
 
 spring:

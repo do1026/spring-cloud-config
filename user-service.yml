@@ -1,2 +1,6 @@
 message:
-  greeting: Hello Spring Cloud
+  greeting: Hello Spring Cloud Bus
+
+company:
+  name: NJONE Company
+  ceo: Hong Gil Dong
